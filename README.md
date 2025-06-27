@@ -116,6 +116,8 @@ The frontend (HTML/CSS/JS) can be extended to collect inputs and display results
 ## 👤 Author
 
 **Ruturaj Warkad**
+
 B.Tech Computer Engineering
+
 College Project for CEP 
 
